@@ -1,5 +1,4 @@
-C++ learning soruce "MODERN" kinda  
-[learncpp.com] (https://learncpp.com)
+C++ learning soruce "MODERN" kinda --> https://learncpp.com
 
 
 
